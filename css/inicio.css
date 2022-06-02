@@ -26,6 +26,7 @@ body {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .BARBICOOK {
@@ -80,9 +81,9 @@ img {
 }
 
 .footer {
-  text-align: center;
   height: 100px;
   transform: translateY(800px);
+  text-align: center;
 }
 
 .btn1 :hover {
